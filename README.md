@@ -31,5 +31,6 @@ sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-d
 
 1. rt 파일의 첫번째 평면에 범프맵 텍스처 매핑
 2. rt 파일의 첫번째 구에 체크 무늬 적용
+3. 원뿔 도형을 렌더링할 수 있음
 
 예제 rt 파일은 `maps` 경로에 위치한다.
